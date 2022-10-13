@@ -1,4 +1,4 @@
-# Awesome Shodan Search Queries [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Shodan Search Queries [![Shodan](https://imgs.search.brave.com/ZEHEPV4Qi0PvRRpPQeC6FYS0yUlndr3sGOlbozKKtOY/rs:fit:751:225:1/g:ce/aHR0cHM6Ly90c2U0/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC5HLWphVVBm/VzNuVmpWaWVvMWRf/dlV3SGFFciZwaWQ9/QXBp)](https://awesome.re)
 
 
 Over time, I've collected an assortment of interesting, funny, and depressing search queries to plug into [Shodan](https://www.shodan.io/), the ([literal](https://www.vice.com/en_uk/article/9bvxmd/shodan-exposes-the-dark-side-of-the-net)) internet search engine. Some return facepalm-inducing results, while others return serious and/or ancient vulnerabilities in the wild.
