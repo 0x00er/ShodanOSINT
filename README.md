@@ -1,18 +1,18 @@
 # Awesome Shodan Search Queries [![Shodan](https://imgs.search.brave.com/ZEHEPV4Qi0PvRRpPQeC6FYS0yUlndr3sGOlbozKKtOY/rs:fit:751:225:1/g:ce/aHR0cHM6Ly90c2U0/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC5HLWphVVBm/VzNuVmpWaWVvMWRf/dlV3SGFFciZwaWQ9/QXBp)](https://www.shodan.io/)
 
 
-Over time, I've collected an assortment of interesting, funny, and depressing search queries to plug into [Shodan](https://www.shodan.io/), the ([literal](https://www.vice.com/en_uk/article/9bvxmd/shodan-exposes-the-dark-side-of-the-net)) internet search engine. Some return facepalm-inducing results, while others return serious and/or ancient vulnerabilities in the wild.
+Over time, I've collected an assortment of interesting, funny, and depressing search queries to plug into [Shodan](https://www.shodan.io/), the ([literal](https://en.m.wikipedia.org/wiki/Shodan_(website))) internet search engine. Some return facepalm-inducing results, while others return serious and/or ancient vulnerabilities in the wild.
 You can experiment with making Shodan search queries, or you can take this shortcut and use some of my ones.
 <p align="center">
-  <img src="examples/shodan.png" /><br />
+  <img src="Examples/shodan.png" /><br />
   <strong><a href="https://account.shodan.io/register">Most search filters require a Shodan account.</a></strong>
 </p>
 
 You can assume these queries only return unsecured/open instances when possible. For your own legal benefit, do not attempt to login (even with default passwords) if they aren't! Narrow down results by adding filters like `country:US` or `org:"Harvard University"` or `hostname:"nasa.gov"` to the end.
 
-The world and its devices are quickly becoming more connected through the shiny new [Internet of ~~Things~~ Sh*t](https://motherboard.vice.com/en_us/topic/internet-of-shit) — and exponentially [more dangerous](https://blog.malwarebytes.com/101/2017/12/internet-things-iot-security-never/) as a result. To that end, I hope this list spreads awareness (and, quite frankly, pant-wetting fear) rather than harm. 
+The world and its devices are quickly becoming more connected through the shiny new [Internet of ~~Things~~ Sh*t](https://en.m.wikipedia.org/wiki/Internet_of_things) — and exponentially [more dangerous](https://blog.malwarebytes.com/101/2017/12/internet-things-iot-security-never/) as a result. To that end, I hope this list spreads awareness (and, quite frankly, pant-wetting fear) rather than harm. 
 
-**And as always, [discover and disclose responsibly](https://www.bugcrowd.com/resource/what-is-responsible-disclosure/)! 🤓**
+**And as always, [discover and disclose responsibly](https://www.bugcrowd.com/resource/what-is-responsible-disclosure/)! 🐧**
 
 
 ---
@@ -42,7 +42,7 @@ The world and its devices are quickly becoming more connected through the shiny 
 "Server: Prismview Player"
 ```
 
-<div align="center"><img src="screenshots/billboard3.png" alt="Example: Electronic Billboards" width="500" /></div>
+<div align="center"><img src="Examples/billboard3.png" alt="Example: Electronic Billboards" width="500" /></div>
 
 
 ### Gas Station Pump Controllers [🔎 &#x2192;](https://www.shodan.io/search?query=%22in-tank+inventory%22+port%3A10001)
@@ -51,7 +51,7 @@ The world and its devices are quickly becoming more connected through the shiny 
 "in-tank inventory" port:10001
 ```
 
-<div align="center"><img src="screenshots/7-11.png" alt="Example: Gas Station Pump Inventories" width="700" /></div>
+<div align="center"><img src="Examples/7-11.png" alt="Example: Gas Station Pump Inventories" width="700" /></div>
 
 
 ### Automatic License Plate Readers [🔎 &#x2192;](https://www.shodan.io/search?query=P372+%22ANPR+enabled%22)
@@ -60,7 +60,7 @@ The world and its devices are quickly becoming more connected through the shiny 
 P372 "ANPR enabled"
 ```
 
-<div align="center"><img src="screenshots/plate-reader.png" alt="Example: Automatic License Plate Reader" /></div>
+<div align="center"><img src="Examples/plate-reader.png" alt="Example: Automatic License Plate Reader" /></div>
 
 
 ### Traffic Light Controllers / Red Light Cameras [🔎 &#x2192;](https://www.shodan.io/search?query=mikrotik+streetlight)
@@ -101,7 +101,7 @@ Wiretapping mechanism outlined by Cisco in [RFC 3924](https://tools.ietf.org/htm
 http.title:"Tesla PowerPack System" http.component:"d3" -ga3ca4f2
 ```
 
-<div align="center"><img src="screenshots/tesla.png" alt="Example: Tesla PowerPack Charging Status" /></div>
+<div align="center"><img src="Examples/tesla.png" alt="Example: Tesla PowerPack Charging Status" /></div>
 
 
 ### Electric Vehicle Chargers [🔎 &#x2192;](https://www.shodan.io/search?query=%22Server%3A+gSOAP%2F2.8%22+%22Content-Length%3A+583%22)
