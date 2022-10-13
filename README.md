@@ -1,4 +1,4 @@
-# Awesome Shodan Search Queries [![Shodan](https://imgs.search.brave.com/ZEHEPV4Qi0PvRRpPQeC6FYS0yUlndr3sGOlbozKKtOY/rs:fit:751:225:1/g:ce/aHR0cHM6Ly90c2U0/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC5HLWphVVBm/VzNuVmpWaWVvMWRf/dlV3SGFFciZwaWQ9/QXBp)](https://www.shodan.io/)
+# Ultimate OSINT with Shodan [![Shodan](https://imgs.search.brave.com/ZEHEPV4Qi0PvRRpPQeC6FYS0yUlndr3sGOlbozKKtOY/rs:fit:751:225:1/g:ce/aHR0cHM6Ly90c2U0/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC5HLWphVVBm/VzNuVmpWaWVvMWRf/dlV3SGFFciZwaWQ9/QXBp)](https://www.shodan.io/)
 
 
 Over time, I've collected an assortment of interesting, funny, and depressing search queries to plug into [Shodan](https://www.shodan.io/), the ([literal](https://en.m.wikipedia.org/wiki/Shodan_(website))) internet search engine. Some return facepalm-inducing results, while others return serious and/or ancient vulnerabilities in the wild.
@@ -694,16 +694,9 @@ port:17 product:"Windows qotd"
 
 
 
-If you've found any other juicy Shodan gems, whether it's a search query or a specific example, definitely [drop a comment](https://jarv.is/notes/shodan-search-queries/#commento) on the blog or [open an issue/PR here on GitHub](https://github.com/jakejarvis/awesome-shodan-queries).
+If you find something else useful that is not covered here, please  [open an issue/PR here on GitHub](https://github.com/SnowflAI/Shodan_queries).
 
-Bon voyage, fellow penetrators! 😉
+Sagar Verma, fellow penetrators, Cybersecurity Analyst! 😉
 
 
 
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Jake Jarvis](https://jarv.is/) has waived all copyright and related or neighboring rights to this work.
-
-Mirrored from a blog post at https://jarv.is/notes/shodan-search-queries/.
