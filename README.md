@@ -1,10 +1,10 @@
-# Awesome Shodan Search Queries [![Shodan](https://imgs.search.brave.com/ZEHEPV4Qi0PvRRpPQeC6FYS0yUlndr3sGOlbozKKtOY/rs:fit:751:225:1/g:ce/aHR0cHM6Ly90c2U0/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC5HLWphVVBm/VzNuVmpWaWVvMWRf/dlV3SGFFciZwaWQ9/QXBp)](https://awesome.re)
+# Awesome Shodan Search Queries [![Shodan](https://imgs.search.brave.com/ZEHEPV4Qi0PvRRpPQeC6FYS0yUlndr3sGOlbozKKtOY/rs:fit:751:225:1/g:ce/aHR0cHM6Ly90c2U0/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC5HLWphVVBm/VzNuVmpWaWVvMWRf/dlV3SGFFciZwaWQ9/QXBp)](https://www.shodan.io/)
 
 
 Over time, I've collected an assortment of interesting, funny, and depressing search queries to plug into [Shodan](https://www.shodan.io/), the ([literal](https://www.vice.com/en_uk/article/9bvxmd/shodan-exposes-the-dark-side-of-the-net)) internet search engine. Some return facepalm-inducing results, while others return serious and/or ancient vulnerabilities in the wild.
-
+You can experiment with making Shodan search queries, or you can take this shortcut and use some of my ones.
 <p align="center">
-  <img src="screenshots/shodan.png" /><br />
+  <img src="examples/shodan.png" /><br />
   <strong><a href="https://account.shodan.io/register">Most search filters require a Shodan account.</a></strong>
 </p>
 
