@@ -503,12 +503,22 @@ Redirecting sencha port:9000
 
 Example images not necessary. 🤦
 
+### General search for anything matching the “camera” keyword. [🔎 &#x2192;](https://www.shodan.io/search?query=title%3Acamera)
+
+```
+"title:camera"
+```
+
 ### Yawcams [🔎 &#x2192;](https://www.shodan.io/search?query=%22Server%3A+yawcam%22+%22Mime-Type%3A+text%2Fhtml%22)
 
 ```
 "Server: yawcam" "Mime-Type: text/html"
 ```
+### General search for any IoT device identified as a webcam that has screenshots available [🔎 &#x2192;](https://www.shodan.io/search?query=webcam+has_screenshot%3Atrue)
 
+```
+"webcam has_screenshot:true"
+```
 
 ### webcamXP/webcam7 [🔎 &#x2192;](https://www.shodan.io/search?query=%28%22webcam+7%22+OR+%22webcamXP%22%29+http.component%3A%22mootools%22+-401)
 
@@ -697,6 +707,4 @@ port:17 product:"Windows qotd"
 If you find something else useful that is not covered here, please  [open an issue/PR here on GitHub](https://github.com/SnowflAI/Shodan_queries).
 
 Sagar Verma, fellow penetrators, Cybersecurity Analyst! 😉
-
-
 
