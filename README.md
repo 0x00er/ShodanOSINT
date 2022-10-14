@@ -1,4 +1,4 @@
-# Ultimate OSINT with Shodan [![Shodan](https://imgs.search.brave.com/ZEHEPV4Qi0PvRRpPQeC6FYS0yUlndr3sGOlbozKKtOY/rs:fit:751:225:1/g:ce/aHR0cHM6Ly90c2U0/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC5HLWphVVBm/VzNuVmpWaWVvMWRf/dlV3SGFFciZwaWQ9/QXBp)](https://www.shodan.io/)
+# Ultimate OSINT with Shodan Queries [![Shodan](https://imgs.search.brave.com/ZEHEPV4Qi0PvRRpPQeC6FYS0yUlndr3sGOlbozKKtOY/rs:fit:751:225:1/g:ce/aHR0cHM6Ly90c2U0/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC5HLWphVVBm/VzNuVmpWaWVvMWRf/dlV3SGFFciZwaWQ9/QXBp)](https://www.shodan.io/)
 
 
 Over time, I've collected an assortment of interesting, funny, and depressing search queries to plug into [Shodan](https://www.shodan.io/), the ([literal](https://en.m.wikipedia.org/wiki/Shodan_(website))) internet search engine. Some return facepalm-inducing results, while others return serious and/or ancient vulnerabilities in the wild.
